@@ -1,6 +1,6 @@
 {
   "name": "lemanwang/php-tools",
-  "description": "php工具包。",
+  "description": "php 常用的工具包，",
   "minimum-stability": "dev",
   "license": "MIT",
   "authors": [

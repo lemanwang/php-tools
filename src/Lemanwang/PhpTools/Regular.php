@@ -16,7 +16,7 @@ class Regular
         $str = preg_replace('/\{/', '\{',$str);
         $str = preg_replace('/\}/', '\}',$str);
         $str = preg_replace('/\//', '\/',$str);
-        $str = preg_replace('/\\/', '\\',$str);
+//        $str = preg_replace('/\\/', '\\',$str);
         $str = preg_replace('/\*/', '\*',$str);
         $str = preg_replace('/\+/', '\+',$str);
         $str = preg_replace('/\./', '\.',$str);

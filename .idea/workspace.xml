@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa417d7-da9f-4aab-8ac4-e557affa0363" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Qq/QqConnect.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Request/Visitor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Request/Visitor.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -50,7 +54,7 @@
       <recent name="D:\code\github\php-tools\src\Lemanwang\PhpTools\Regular" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.Regular.php">
+  <component name="RunManager" selected="PHP Script.Test.php">
     <configuration name="Regular.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/Lemanwang/PhpTools/Regular.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -69,8 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.Regular.php" />
         <item itemvalue="PHP Script.Test.php" />
+        <item itemvalue="PHP Script.Regular.php" />
       </list>
     </recent_temporary>
   </component>
@@ -84,6 +88,7 @@
       <updated>1642671408418</updated>
       <workItem from="1642671409702" duration="1026000" />
       <workItem from="1642752888037" duration="4642000" />
+      <workItem from="1657030813532" duration="2015000" />
     </task>
     <servers />
   </component>

@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa417d7-da9f-4aab-8ac4-e557affa0363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Qq/QqConnect.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Request/Visitor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Request/Visitor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Qq/QqConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Qq/QqConnect.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lemanwang/PhpTools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../phpstudy_pro/WWW" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -88,7 +87,9 @@
       <updated>1642671408418</updated>
       <workItem from="1642671409702" duration="1026000" />
       <workItem from="1642752888037" duration="4642000" />
-      <workItem from="1657030813532" duration="2015000" />
+      <workItem from="1657030813532" duration="2068000" />
+      <workItem from="1657109225722" duration="1219000" />
+      <workItem from="1657110716016" duration="2085000" />
     </task>
     <servers />
   </component>

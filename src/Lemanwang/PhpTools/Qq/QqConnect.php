@@ -28,7 +28,7 @@ class QqConnect
         ];
         $param = http_build_query($data);
         $url = $this->authorizeUrl.'?'.$param;
-        var_dump($url);exit;
-
+        $body = file_get_contents($url);
+        return $body;
     }
 }

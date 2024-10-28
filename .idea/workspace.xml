@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa417d7-da9f-4aab-8ac4-e557affa0363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Task/TaskCommon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/AhoCorasick/AhoCorasick.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/AhoCorasick/AhoCorasickNode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/AhoCorasick/AhoCorasickTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,27 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/github/xcadd.z88j.com&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/php/php-tools",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\github\php-tools\src\Lemanwang\PhpTools" />
       <recent name="D:\code\github\php-tools\src\Lemanwang\PhpTools\Regular" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.Test.php">
+  <component name="RunManager" selected="PHP 脚本.Regular.php">
     <configuration name="Regular.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/Lemanwang/PhpTools/Regular.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -71,12 +74,6 @@
       </CommandLine>
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="PHP Script.Test.php" />
-        <item itemvalue="PHP Script.Regular.php" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,6 +90,7 @@
       <workItem from="1657110716016" duration="2085000" />
       <workItem from="1657618294221" duration="889000" />
       <workItem from="1667873107363" duration="4260000" />
+      <workItem from="1730128580125" duration="1010000" />
     </task>
     <servers />
   </component>

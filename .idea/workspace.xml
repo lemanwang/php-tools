@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa417d7-da9f-4aab-8ac4-e557affa0363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/AhoCorasick/AhoCorasick.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/AhoCorasick/AhoCorasickNode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/AhoCorasick/AhoCorasickTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/Request/Curl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lemanwang/PhpTools/TimeTools/Convert.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +28,10 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="23xMi9F2h7Lwujl2UJSz0ZMRvF6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,8 +40,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/php/php-tools",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/php-tools/src/Lemanwang/PhpTools",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,8 +54,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\php-tools\src\Lemanwang\PhpTools" />
+      <recent name="D:\php-tools\src\Lemanwang\PhpTools\Request" />
       <recent name="D:\code\github\php-tools\src\Lemanwang\PhpTools" />
       <recent name="D:\code\github\php-tools\src\Lemanwang\PhpTools\Regular" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\php-tools\src\Lemanwang\PhpTools" />
     </key>
   </component>
   <component name="RunManager" selected="PHP 脚本.Regular.php">
@@ -75,6 +81,14 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PS-251.26094.133" />
+        <option value="bundled-php-predefined-a98d8de5180a-c5828cf854d9-com.jetbrains.php.sharedIndexes-PS-251.26094.133" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,6 +105,7 @@
       <workItem from="1657618294221" duration="889000" />
       <workItem from="1667873107363" duration="4260000" />
       <workItem from="1730128580125" duration="1010000" />
+      <workItem from="1751513769088" duration="315000" />
     </task>
     <servers />
   </component>
